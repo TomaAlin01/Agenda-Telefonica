@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"agenda_telefonica","l":"Agenda"},{"p":"agenda_telefonica","l":"AgendaTest"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"agenda_telefonica","l":"Contact"},{"p":"agenda_telefonica","l":"DatabaseConnector"},{"p":"agenda_telefonica","l":"InterfataAgenda"},{"p":"agenda_telefonica","l":"Main"}];updateSearchResults();
